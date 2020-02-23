@@ -5,7 +5,7 @@ def new_hash
 end
 
 def actor
-
+  actor = {name: "Jason"}
 end
 
 def monopoly
